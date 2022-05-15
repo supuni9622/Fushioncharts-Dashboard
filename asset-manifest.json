@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fushioncharts-Dashboard/static/css/main.1ef6fe7c.css",
+    "main.js": "/Fushioncharts-Dashboard/static/js/main.a65aded8.js",
+    "static/js/787.1b21e441.chunk.js": "/Fushioncharts-Dashboard/static/js/787.1b21e441.chunk.js",
+    "index.html": "/Fushioncharts-Dashboard/index.html",
+    "main.1ef6fe7c.css.map": "/Fushioncharts-Dashboard/static/css/main.1ef6fe7c.css.map",
+    "main.a65aded8.js.map": "/Fushioncharts-Dashboard/static/js/main.a65aded8.js.map",
+    "787.1b21e441.chunk.js.map": "/Fushioncharts-Dashboard/static/js/787.1b21e441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef6fe7c.css",
+    "static/js/main.a65aded8.js"
+  ]
+}
