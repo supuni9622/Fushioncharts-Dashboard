@@ -1,6 +1,7 @@
 import './App.css';
 import Header from "./headerComponent/Header";
 import ChartsView from "./ChartsView";
+import ObjectLiterals from './objectLiterals/ObjectLiterals';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       >
         See all the fusion chart types here
       </a>
+      <ObjectLiterals/>
     </div>
   );
 }
