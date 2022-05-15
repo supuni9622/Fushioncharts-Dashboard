@@ -2,12 +2,14 @@
   "name": "fusion-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://supuni9622.github.io/Fushioncharts-Dashboard",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
     "fusioncharts": "^3.18.0",
+    "gh-pages": "^4.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
     "prettier": "^2.6.2",
@@ -29,6 +31,8 @@
     ]
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
